@@ -1,0 +1,6 @@
+[submodule "MobileBanking/modules/require/CommonModules"]
+	path = MobileBanking/modules/require/CommonModules
+	url = https://github.com/shivam95/CommonModulesPOC.git
+[submodule "OnlineBanking/modules/require/CommonModules"]
+	path = OnlineBanking/modules/require/CommonModules
+	url = https://github.com/shivam95/CommonModulesPOC.git

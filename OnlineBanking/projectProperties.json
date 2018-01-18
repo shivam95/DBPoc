@@ -30,8 +30,8 @@
     "defaulttheme": "defaultTheme",
     "nativeContainerProperties": {
         "isModified": true,
-        "isEnableJSContainer": false,
-        "isEnableJSContainerAndroid": false,
-        "isEnableJSContaineriOS": false
+        "isEnableJSContainer": true,
+        "isEnableJSContainerAndroid": true,
+        "isEnableJSContaineriOS": true
     }
 }
